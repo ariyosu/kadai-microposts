@@ -32,4 +32,4 @@
             @endif
         </div>
     </div>
-@endsectionC
+@endsection
